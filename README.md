@@ -1,5 +1,5 @@
 # AWS
-Algo sobre AWS
+Estudo sobre AWS
 
 
 EC2
